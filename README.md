@@ -13,3 +13,5 @@ Run the game
 ```sh { background=true }
 tetris --level 1
 ```
+
+![image](https://user-images.githubusercontent.com/2709271/233153056-aeccc511-6db4-4b98-9d82-8e515806165e.png)
